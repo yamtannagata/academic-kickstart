@@ -18,7 +18,7 @@ organizations:
   url: "https://www.volcan.com.pe/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mis intereses investigativos incluyen temas relacionados con Geoestadística, Machine Learning y Programación.
 
 interests:
 - Geoestadística
@@ -44,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "mailto:yamtannagata@gmail.com".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yamtannagata
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/yamtannagata
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Yamtan Nagata es geólogo de estimación de recursos minerales en Compañía Minera Volcan S.A. uno de los mayores productores mundiales de Zn, Pb y Ag.
+Yamtan Nagata es geólogo de estimación de recursos minerales en Compañía Minera Volcan, uno de los mayores productores mundiales de Zn, Pb y Ag.
 
 Su trabajo combina su pasión por la Geoestadística con su interes en la Programación, es responsable de realizar la estimación de recursos minerales a corto plazo buscando optimizar el tiempo en el proceso mediante el desarrollo de aplicativos usando Python, JavaScript y Visual Basic.
 

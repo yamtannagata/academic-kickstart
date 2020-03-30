@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Cursos Finalizados"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Universidad Peruana Cayetano Heredia"
+  organization_url = "http://www.posgradoupch.pe/"
+  title = "Estadística para la Investigación"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = "https://1drv.ms/b/s!AjwmQeJRAMGngiMZH6BpG_Ksqcyz"
+  date_start = "2019-07-10"
+  date_end = "2019-08-28"
+  description = "Identificación de las variables de acuerdo a su clasificación. Organización de la información recolectada en una base de datos que luego será analizada. Cálculo de las medidas estadísticas de acuerdo al tipo de variable. Análisis de la relación o asociación entre variables. Conocimiento de métodos multivariados."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Escuela Nacional de Estadística e Informática"
+  organization_url = "https://www.inei.gob.pe/enei/"
+  title = "Uso y Explotación de Bases de Datos con SQL Server"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  certificate_url = "https://1drv.ms/u/s!AjwmQeJRAMGngiQozXNtFcX0N-k6"
+  date_start = "2018-06-09"
+  date_end = "2018-07-07"
+  description = "Criterios de normalización. Creación de una base de datos y configuración de tablas. Creación, inserción, actualización y eliminación de datos. Uso de operadores (select, distinct, where, between, like, in, order by, asc, desc). Uso de funciones cadena, funciones matemáticas, funciones fecha y funciones de agregado. Uso de procedimientos almacenados."
 +++

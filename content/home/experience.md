@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Geólogo de Estimación de Recursos Minerales"
-  company = "Compañía Minera Volcan S.A."
+  company = "Compañía Minera Volcan"
   company_url = "https://www.volcan.com.pe/"
   location = "Cerro de Pasco, Perú"
   date_start = "2018-08-06"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Trainee de Ingeniería Geológica"
-  company = "Compañía de Minas Buenaventura S.A.A."
+  company = "Compañía de Minas Buenaventura"
   company_url = "https://www.buenaventura.com/es/"
   location = "Arequipa, Perú"
   date_start = "2017-07-01"
@@ -41,13 +41,13 @@ date_format = "Jan 2006"
   description = """
   Responsabilidades:
   
-  * Generar e interpretar las gráficas de QA/QC para los informes.
+  * Generar e interpretar las gráficas de QA/QC.
   * Realizar el mapeo geológico de los tajos en producción.
   * Coordinar la toma de muestras con el personal de la empresa especializada.
   """
 [[experience]]
   title = "Practicante de Geología"
-  company = "Compañía de Minas Buenaventura S.A.A."
+  company = "Compañía de Minas Buenaventura"
   company_url = "https://www.buenaventura.com/es/"
   location = "Lima, Perú"
   date_start = "2017-01-05"
@@ -58,13 +58,4 @@ date_format = "Jan 2006"
   * Desarollar e implementar la estructura corporativa de logueo en GVMapper.
   * Apoyar en el diseño e implementación de aplicativos en Excel para automatizar la inserción de muestras de control.
   """
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
 +++
