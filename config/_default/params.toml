@@ -44,11 +44,11 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Yamtan Nagata es Geólogo de Estimación de Recursos, su trabajo combina su pasión por la Geoestadística con su interes en la Programación."
+description = "Soy Geólogo de Estimación de Recursos Minerales, mi trabajo combina mi pasión por la Geoestadística con mi interes en la Programación."
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "yn.png"
 
 ############################
 ## Site Features
