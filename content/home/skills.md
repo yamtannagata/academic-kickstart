@@ -18,35 +18,35 @@ subtitle = ""
   icon = "cubes"
   icon_pack = "fas"
   name = "Datamine"
-  description = "70%"
+  description = ""
   
 [[feature]]
   icon = "cloudsmith"
   icon_pack = "fab"
   name = "Leapfrog"
-  description = "60%"
+  description = ""
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "60%"
+  description = ""
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%" 
+  description = "" 
   
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "50%" 
+  description = "" 
   
 [[feature]]
   icon = "file"
   icon_pack = "fas"
   name = "Visual Basic"
-  description = "70%" 
+  description = "" 
 +++

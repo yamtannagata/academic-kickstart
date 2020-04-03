@@ -101,7 +101,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Lunes a Viernes -", " 09:00 am a 05:00 pm"]
+office_hours = ["Lunes a Viernes", " (09:00 am a 05:00 pm)"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
@@ -125,7 +125,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "yamtannagata"
 
 ############################
 ## Regional Settings
