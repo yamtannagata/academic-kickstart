@@ -30,3 +30,9 @@ Con ese objetivo planteado, me puse a indagar acerca de las opciones con las que
 En palabras simples, una **macro** es una serie de instrucciones, una secuencia de _procesos_ y _comandos_, listados en formato de texto simple y guardados en un archivo con extensión (.mac) que puede ser leído por Studio RM y conseguir que realice un mismo proceso usando los mismos parámetros de forma repetitiva, las veces que sean necesarias.
 
 Bajo ese mismo enfoque, un **script** es algo un poco más complejo, ya que debe contar con una interface gráfica diseñada en HTML, dentro de la cual se introduce un script, que puede estar escrito en JavaScript o VBScript, es gracias a dicha interface gráfica que podemos interactuar con archivos propios de Studio RM y que se encuentran dentro o fuera de la carpeta donde estamos trabajando nuestro proyecto de estimación de recursos.
+
+Hasta aquí he tratado de explicar, de forma muy general, con que herramientas podemos contar para automatizar aquellas tareas repetitivas donde intervienen una serie de procesos bajo los mismos parámetros, evitando de esa forma que se cometan errores al intentar repetir el mismo escenario las veces que sean necesarias.
+
+Llego el momento de despedirme, no sin antes invitarlos a revisar la sección de **proyectos** donde encontraran el procedimiento que realicé para implementar algunas macros y scripts en mi trabajo.
+
+Hasta pronto.
