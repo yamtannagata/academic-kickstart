@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ingeniero Geólogo
+role: Ingeniero Geólogo | Programador
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.volcan.com.pe/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses investigativos incluyen temas relacionados con Geoestadística, Machine Learning y Programación.
+bio: Interesado en proyectos y temas relacionados con Geoestadística, Machine Learning y Programación.
 
 interests:
 - Geoestadística
