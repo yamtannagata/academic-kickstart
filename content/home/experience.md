@@ -25,11 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-06"
   date_end = ""
   description = """
-  Responsabilidades:
-  
-  * Asegurar la integridad de la base de datos geológica.
-  * Realizar la estimación de recursos a corto plazo.
-  * Efectuar el cálculo de la reconciliación entre modelos geológicos.
+  Soy responsable de realizar la estimación de recursos a corto plazo, enfocándome en automatizar tareas recurrentes mediante el desarrollo de aplicativos en Python y JavaScript para disminuir el tiempo en el proceso.
   """
 [[experience]]
   title = "Trainee de Ingeniería Geológica"
@@ -39,23 +35,7 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2018-05-24"
   description = """
-  Responsabilidades:
-  
-  * Generar e interpretar las gráficas de QA/QC.
-  * Realizar el mapeo geológico de los tajos en producción.
-  * Coordinar la toma de muestras con el personal de la empresa especializada.
-  """
-[[experience]]
-  title = "Practicante de Geología"
-  company = "Compañía de Minas Buenaventura"
-  company_url = "https://www.buenaventura.com/es/"
-  location = "Lima, Perú"
-  date_start = "2017-01-05"
-  date_end = "2017-06-26"
-  description = """
-  Responsabilidades:
-  
-  * Desarollar e implementar la estructura corporativa de logueo en GVMapper.
-  * Apoyar en el diseño e implementación de aplicativos en Excel para automatizar la inserción de muestras de control.
+  Contribuí en el desarrollo e implementación de la estructura corporativa de logueo en GVMapper en las diferentes unidades mineras de la empresa.
+  Apoye en el diseño e implementación de aplicativos en Excel para automatizar el proceso de inserción de muestras de control QA/QC.
   """
 +++

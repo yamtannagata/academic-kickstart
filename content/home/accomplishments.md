@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Universidad Peruana Cayetano Heredia"
   organization_url = "http://www.posgradoupch.pe/"
+  title = "Machine Learning con Python"
+  url = ""
+  certificate_url = "https://1drv.ms/b/s!AjwmQeJRAMGngfwDaoC5w8LJQI52ng?e=j2ER6Z"
+  date_start = "2020-04-07"
+  date_end = "2020-05-26"
+  description = "Aplicación de técnicas de análisis y visualización de datos. Aplicación de técnicas de tratamiento de datos para mejorar la robustez y métrica de salida de los diferentes algoritmos de Machine Learning. Comprensión de diferentes mecánismos y técnicas para aplicar analítica predictiva en problemas de Machine Learning. Desarrollo de modelos algorítmicos robustos con optimización en sus hiperparámetros para la fase de predicción. Desarrollo y analisis de proyectos de Machine Learning como regresión, clasificación binaria y multiclase. Utilización de librerias específicas de Python para trabajos de Machine Learning."
+
+[[item]]
+  organization = "Universidad Peruana Cayetano Heredia"
+  organization_url = "http://www.posgradoupch.pe/"
   title = "Estadística para la Investigación"
   url = ""
   certificate_url = "https://1drv.ms/b/s!AjwmQeJRAMGngiMZH6BpG_Ksqcyz"
