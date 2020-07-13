@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ingeniero Geólogo | Programador
+role: Ing. Geólogo | Programador
 
 # Organizations/Affiliations
 organizations:
