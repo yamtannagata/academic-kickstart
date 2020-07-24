@@ -1,5 +1,5 @@
 ---
-title: Automatización en Datamine Studio RM
+title: Automatización de procesos en Datamine Studio RM
 author: Yamtan Nagata
 date: '2020-07-11'
 slug: automatizacion-en-datamine-studio-rm
