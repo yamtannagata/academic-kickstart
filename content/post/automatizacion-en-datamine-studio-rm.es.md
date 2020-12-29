@@ -1,5 +1,5 @@
 ---
-title: Automatización de procesos en Datamine Studio RM
+title: ¿Cuáles son las herramientas que me permiten automatizar procesos en Datamine Studio RM?
 author: Yamtan Nagata
 date: '2020-07-11'
 slug: automatizacion-en-datamine-studio-rm
@@ -9,7 +9,7 @@ categories:
   - JavaScript
 tags: []
 subtitle: ''
-summary: 'Un alcance a la automatización de procesos en Studio RM usando Macros y Scripts'
+summary: 'Desde escribir una macro hasta implementar un script. Un alcance a las opciones en Datamine para poder automatizar diversos procesos.'
 authors: []
 lastmod: '2020-07-12T00:20:23-05:00'
 featured: no
